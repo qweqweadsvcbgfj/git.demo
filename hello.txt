@@ -13,3 +13,4 @@ hello git!master test
 hello git!hot-fix test
 hello gt
 1111111111111111111111111111111111
+clone 22222  by clone
